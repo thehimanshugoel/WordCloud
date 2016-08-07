@@ -50,9 +50,7 @@ public class MainActivity extends AppCompatActivity {
         wordCloud.setRandomTextColor();
         wordCloud.setRandomFonts();
 
-/*
         wordCloud.setCloudTextColor("#FFC107");
-*/
 
         wordCloud.setOnWordClickListener(new WordCloudClick() {
             @Override
