@@ -14,7 +14,8 @@ or Maven:
   <artifactId>wordcloud</artifactId>
   <version>0.0.1</version>
   <type>pom</type>
-</dependency>```
+</dependency>
+ ```
 
 
 ##How To Use
