@@ -24,7 +24,7 @@ or Maven:
 
 - Step 1 : Add WordCloud to your xml layout
 ```
-        <com.wordcloud.WordCloud
+        <com.himanshugoel.WordCloud
             android:id="@+id/wordCloud"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
